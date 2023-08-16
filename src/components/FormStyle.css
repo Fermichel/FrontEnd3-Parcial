@@ -1,0 +1,28 @@
+.form{
+    background-color:#a92727;
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+}
+.input{
+    width: 80%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: none;
+    border-radius: 4px;
+    background-color:#77181e;
+}
+.err{
+    padding: 8px;
+    margin-bottom: 15px;
+    border: none;
+    border-radius: 4px;
+    background-color:#f10c49;
+}
+.info{
+    width: 90%;
+    margin: 15px;
+    border: none;
+    background-color:#dee7e7;
+    color:#000000;
+}/*tengo que ver esto */
